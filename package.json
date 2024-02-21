@@ -1,0 +1,27 @@
+{
+  "name": "backend-practice",
+  "version": "1.0.0",
+  "description": "a backend prototype of youtube and twitter",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ahmadnadeem6236/backend.git"
+  },
+  "keywords": [
+    "backend",
+    "javascript"
+  ],
+  "author": "Nadeem Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadnadeem6236/backend/issues"
+  },
+  "homepage": "https://github.com/ahmadnadeem6236/backend#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
